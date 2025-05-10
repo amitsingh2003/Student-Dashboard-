@@ -689,10 +689,10 @@ const handleDeleteStudent = async (id) => {
         {/* Page title & stats */}
         <div className="flex flex-col md:flex-row justify-between items-start md:items-center mb-8">
           <div>
-            <h2 className="text-2xl md:text-3xl font-bold text-gray-800 dark:text-white mb-2">
+            <h2 className="text-2xl md:text-3xl font-bold text-gray-800 dark:text-pink-500 mb-2">
               Student Management
             </h2>
-            <p className="text-gray-600 dark:text-gray-400">
+            <p className="text-gray-600 dark:text-violet-400">
               Manage and track student performance and records
             </p>
           </div>
